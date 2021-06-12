@@ -1,3 +1,13 @@
 bin/*
-
+/Frameworks
+/qresource
+*.o
+*.rcc
+*.qrc
+*.bat
+*.log
+*.stash
+Makefile
+/src/rcc
+*.DS_Store
 /src/rcc.pro.user
